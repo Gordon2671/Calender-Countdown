@@ -1,0 +1,11 @@
+{
+  "name": "MyCalender",
+  "short_name": "MyCalender",
+  "description": "Personal task calendar with countdowns",
+  "start_url": "/Calender-Countdown/",
+  "scope": "/Calender-Countdown/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#111111"
+}
